@@ -1,2 +1,3 @@
 # Photoelectric
-A replacement for the PHet Sim
+An alternative for the PHet Photoelectric effect simulation that runs without Java.
+
